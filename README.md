@@ -19,7 +19,7 @@ You need need the following libraries:
 
 ## Automation Table Results
 
-<image src="/Table Results.png" alt="UI LabVIEW">
+<image src="Table Results.png" alt="UI LabVIEW">
 
 
 *Note: In this repository some files was removed for privacy, so it's probably that yo can't use it.*
