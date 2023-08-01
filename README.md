@@ -19,7 +19,7 @@ You need need the following libraries:
 
 ## Automation Table Results
 
-<image src="Table Results.png" alt="UI LabVIEW">
+<image src="https://github.com/LeonelNL/Python-GEA2/blob/main/Table%20results.png" alt="UI LabVIEW">
 
 
 *Note: In this repository some files was removed for privacy, so it's probably that yo can't use it.*
